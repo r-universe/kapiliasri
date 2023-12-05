@@ -5,6 +5,9 @@
 [submodule "EEMDlstm"]
 	path = EEMDlstm
 	url = https://github.com/cran/EEMDlstm
+[submodule "decompDL"]
+	path = decompDL
+	url = https://github.com/cran/decompDL
 [submodule "vmdTDNN"]
 	path = vmdTDNN
 	url = https://github.com/cran/vmdTDNN
