@@ -8,6 +8,9 @@
 [submodule "decompDL"]
 	path = decompDL
 	url = https://github.com/cran/decompDL
+[submodule "decompML"]
+	path = decompML
+	url = https://github.com/cran/decompML
 [submodule "vmdTDNN"]
 	path = vmdTDNN
 	url = https://github.com/cran/vmdTDNN
