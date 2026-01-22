@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "decompDL"]
-	path = decompDL
-	url = https://github.com/cran/decompDL
 [submodule "decompML"]
 	path = decompML
 	url = https://github.com/cran/decompML
